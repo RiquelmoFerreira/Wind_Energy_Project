@@ -31,7 +31,7 @@ The objective of the project was to analyze the efficiency of the turbines in re
 # Author
 ## Riquelmo Afonso Avelar Ferreira
 
-https://www.linkedin.com/in/riquelmo-afonso-avelar-ferreira-a28619230/
+https://www.linkedin.com/in/riquelmo-afonso-avelar-ferreira-df5183/?locale=en_US
 
  
 
