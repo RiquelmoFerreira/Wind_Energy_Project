@@ -79,12 +79,4 @@ Para isso durante a análise resolvemos definir um valor de 5% para o limite má
 # Autor
 ## Riquelmo Afonso Avelar Ferreira
 
-https://www.linkedin.com/in/riquelmo-afonso-avelar-ferreira-df5183/?locale=en_US
-
-
- 
-
-
-
- 
-
+https://www.linkedin.com/in/riquelmo-afonso-avelar-ferreira-df5183/
