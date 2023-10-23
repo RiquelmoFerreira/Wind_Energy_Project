@@ -34,6 +34,7 @@ After making Scatterplot Plot we can see that some turbines had a value of 0 and
 - Pandas
 - Matplotlib
 - Seaborn
+- Power Point
 
 # Author
 ## Riquelmo Afonso Avelar Ferreira
@@ -75,6 +76,7 @@ Para isso durante a análise resolvemos definir um valor de 5% para o limite má
 - Pandas
 - Matplotlib
 - Seaborn
+- Power Point
 
 # Autor
 ## Riquelmo Afonso Avelar Ferreira
