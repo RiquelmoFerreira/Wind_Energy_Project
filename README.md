@@ -1,3 +1,46 @@
+# Português: 
+# Análise de Eficiência de Turbinas Eólicas
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/RiquelmoFerreira/Wind_Energy_Project/blob/main/LICENSE)
+
+# Sobre o projeto
+
+Esse projeto foi feito durante o treino prático do curso de Python para Análise de Dados conduzido por Hashtag Programação e o arquivo está disponível nas linguagens: Português (ProjetoEnergiaEolica.ipynb) e Inglês (WindEnergyProject.ipynb)
+
+O objetivo desse projeto foi analizar a eficiência de turbinas eólicas em relação ao valor teórico declarado pelo fabricante e analizar anormalidades definindo um valor aceitável de variação, nesse projeto foram usadas a linguagem Python e suas Bibliotecas Pandas, Matplotlib e Seaborn no ambiente do Jupyter Notebook
+
+O Dataset possui informação da Data e do Horário (Atualizado a cada 10 minutos), o Valor Real gerado pelas Turbinas (kW), a Velocidade do Vento (m/s), a Curva Teórica declarada pelo Fabricante (KWh) e a Direção do Vento. Buscamos fazer uma comparação entre o Valor Real x Velocidade do Vento e da Curva Teórica x Velocidade do Vento para entender a eficiência das Turbinas Eólicas.
+
+Para isso durante a análise resolvemos definir um valor de 5% para o limite máximo e o limite mínimo de variação aceitável em relação ao valor teórica. Em um projeto real e mais elaborado poderiam ser usados modelos de Machine Learning para definir esse valor e ter uma avaliação mais precisa. Após fazer um Plot de um gráfico Scatterplot podemos perceber que algumas túrbinas estavam com valor 0 e provavelmente estariam em manutenção e também chegamos a conclusão que uma grande parte das turbinas eólicas tinha uma eficiência menor que a definida em nosso limite aceitável.
+
+## Visão Geral do Projeto
+![ProjetoGeral](https://github.com/RiquelmoFerreira/Wind_Energy_Project/blob/main/Imagem1.png)
+
+## Visão Geral do Gráfico
+![GraficoGeral](https://github.com/RiquelmoFerreira/Wind_Energy_Project/blob/main/Imagem2.png)
+
+# Tecnologias e Bibliotecas
+
+- Python para Análise de Dados
+- Pandas
+- Matplotlib
+- Seaborn
+
+# Rode o Projeto:
+## Pré-Requisitos:
+- Python 3.11.0 ou superior
+- Jupyter Notebook
+- Pandas
+- Matplotlib
+- Seaborn
+- Power Point
+
+# Autor
+## Riquelmo Afonso Avelar Ferreira
+
+https://www.linkedin.com/in/riquelmo-afonso-avelar-ferreira-df5183/
+
+#
+
 # English:
 # Efficiency Analysis of Wind Energy Turbines
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/RiquelmoFerreira/Wind_Energy_Project/blob/main/LICENSE)
@@ -41,44 +84,3 @@ After making Scatterplot Plot we can see that some turbines had a value of 0 and
 
 https://www.linkedin.com/in/riquelmo-afonso-avelar-ferreira-df5183/?locale=en_US
 #
-
-# Português: 
-# Análise de Eficiência de Turbinas Eólicas
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/RiquelmoFerreira/Wind_Energy_Project/blob/main/LICENSE)
-
-# Sobre o projeto
-
-Esse projeto foi feito durante o treino prático do curso de Python para Análise de Dados conduzido por Hashtag Programação e o arquivo está disponível nas linguagens: Português (ProjetoEnergiaEolica.ipynb) e Inglês (WindEnergyProject.ipynb)
-
-O objetivo desse projeto foi analizar a eficiência de turbinas eólicas em relação ao valor teórico declarado pelo fabricante e analizar anormalidades definindo um valor aceitável de variação, nesse projeto foram usadas a linguagem Python e suas Bibliotecas Pandas, Matplotlib e Seaborn no ambiente do Jupyter Notebook
-
-O Dataset possui informação da Data e do Horário (Atualizado a cada 10 minutos), o Valor Real gerado pelas Turbinas (kW), a Velocidade do Vento (m/s), a Curva Teórica declarada pelo Fabricante (KWh) e a Direção do Vento. Buscamos fazer uma comparação entre o Valor Real x Velocidade do Vento e da Curva Teórica x Velocidade do Vento para entender a eficiência das Turbinas Eólicas.
-
-Para isso durante a análise resolvemos definir um valor de 5% para o limite máximo e o limite mínimo de variação aceitável em relação ao valor teórica. Em um projeto real e mais elaborado poderiam ser usados modelos de Machine Learning para definir esse valor e ter uma avaliação mais precisa. Após fazer um Plot de um gráfico Scatterplot podemos perceber que algumas túrbinas estavam com valor 0 e provavelmente estariam em manutenção e também chegamos a conclusão que uma grande parte das turbinas eólicas tinha uma eficiência menor que a definida em nosso limite aceitável.
-
-## Visão Geral do Projeto
-![ProjetoGeral](https://github.com/RiquelmoFerreira/Wind_Energy_Project/blob/main/Imagem1.png)
-
-## Visão Geral do Gráfico
-![GraficoGeral](https://github.com/RiquelmoFerreira/Wind_Energy_Project/blob/main/Imagem2.png)
-
-# Tecnologias e Bibliotecas
-
-- Python para Análise de Dados
-- Pandas
-- Matplotlib
-- Seaborn
-
-# Rode o Projeto:
-## Pré-Requisitos:
-- Python 3.11.0 ou superior
-- Jupyter Notebook
-- Pandas
-- Matplotlib
-- Seaborn
-- Power Point
-
-# Autor
-## Riquelmo Afonso Avelar Ferreira
-
-https://www.linkedin.com/in/riquelmo-afonso-avelar-ferreira-df5183/
